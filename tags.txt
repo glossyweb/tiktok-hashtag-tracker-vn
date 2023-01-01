@@ -1,6 +1,7 @@
+halong
 hanoi
-saigon
 hcmc
 hcmcity
-halong
+hue
 nhatrang
+saigon
