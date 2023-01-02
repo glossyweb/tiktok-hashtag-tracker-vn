@@ -5,3 +5,4 @@ hcmcity
 hue
 nhatrang
 saigon
+yeu_viet_nam
