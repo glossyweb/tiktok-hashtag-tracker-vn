@@ -4,5 +4,6 @@ hcmc
 hcmcity
 hue
 nhatrang
+phunlongmay
 saigon
 yeu_viet_nam
